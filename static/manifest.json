@@ -1,0 +1,14 @@
+{
+	"name": "zilink.co",
+	"short_name": "zilink.co",
+	"theme_color": "#111827",
+	"background_color": "#ffffff",
+	"display": "standalone",
+	"start_url": "/",
+	"description": "Create Shorten links, Create QR Codes & Track Clicks | zilink.co",
+	"icons": [
+		{ "src": "pwa-64x64.png", "type": "image/png", "sizes": "64x64" },
+		{ "src": "pwa-192x192.png", "type": "image/png", "sizes": "192x192" },
+		{ "src": "pwa-512x512.png", "type": "image/png", "sizes": "512x512" }
+	]
+}
